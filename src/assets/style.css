@@ -1,0 +1,26 @@
+.divider {
+  border-bottom: 1px solid #f5f5f5;
+}
+
+
+
+.product_image {
+  position: relative;
+  width: 100%;
+}
+
+select {
+  color: orangered;
+  font-weight: bold;
+  font-size: 1as rem;
+}
+
+.quantity_changer {
+  width: 100%;
+}
+
+.remove{
+  all: unset;
+  color: red;
+  text-decoration: underline;
+}
